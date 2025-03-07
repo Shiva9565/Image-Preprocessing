@@ -1,5 +1,3 @@
-# Image-Preprocessing
-
 # **Image Preprocessing for Machine Learning**
 
 This project demonstrates how to preprocess images for machine learning tasks using Python. It resizes, normalizes, and converts images into tensors, making them suitable for input into machine learning models. The preprocessed images are saved and displayed for verification.
